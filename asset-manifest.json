@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ga-react/static/css/main.2cce8147.chunk.css",
-    "main.js": "/ga-react/static/js/main.912dc67c.chunk.js",
-    "main.js.map": "/ga-react/static/js/main.912dc67c.chunk.js.map",
+    "main.css": "/ga-react/static/css/main.5b51d912.chunk.css",
+    "main.js": "/ga-react/static/js/main.cb77ed85.chunk.js",
+    "main.js.map": "/ga-react/static/js/main.cb77ed85.chunk.js.map",
     "runtime~main.js": "/ga-react/static/js/runtime~main.08396bc0.js",
     "runtime~main.js.map": "/ga-react/static/js/runtime~main.08396bc0.js.map",
-    "static/js/2.b41502e9.chunk.js": "/ga-react/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/ga-react/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.c6951975.chunk.js": "/ga-react/static/js/2.c6951975.chunk.js",
+    "static/js/2.c6951975.chunk.js.map": "/ga-react/static/js/2.c6951975.chunk.js.map",
     "index.html": "/ga-react/index.html",
-    "precache-manifest.87cea1685c80fabb8eb23f81adcbeaa0.js": "/ga-react/precache-manifest.87cea1685c80fabb8eb23f81adcbeaa0.js",
+    "precache-manifest.20ab0e0de7c5b0d82164fe7621fb97c8.js": "/ga-react/precache-manifest.20ab0e0de7c5b0d82164fe7621fb97c8.js",
     "service-worker.js": "/ga-react/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/ga-react/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/ga-react/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5b51d912.chunk.css.map": "/ga-react/static/css/main.5b51d912.chunk.css.map"
   }
 }
