@@ -43,7 +43,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="/"
+          href="/ga-react/"
           onClick={handleLinkClick}
           target="_blank"
           rel="noopener noreferrer"
