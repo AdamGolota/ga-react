@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ga-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ga-react/static/js/main.912dc67c.chunk.js",
+    "main.js.map": "/ga-react/static/js/main.912dc67c.chunk.js.map",
+    "runtime~main.js": "/ga-react/static/js/runtime~main.08396bc0.js",
+    "runtime~main.js.map": "/ga-react/static/js/runtime~main.08396bc0.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ga-react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ga-react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ga-react/index.html",
+    "precache-manifest.87cea1685c80fabb8eb23f81adcbeaa0.js": "/ga-react/precache-manifest.87cea1685c80fabb8eb23f81adcbeaa0.js",
+    "service-worker.js": "/ga-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ga-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ga-react/static/media/logo.5d5d9eef.svg"
+  }
+}
