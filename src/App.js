@@ -16,14 +16,14 @@ function App() {
     return re.test(String(email).toLowerCase());
   }
 
-  function handleSubmit() {
+  function handleSubmit(e) {
     if (validateEmail(email)) {
       ReactGA.event({
         category: 'User',
         action: 'Sign up'
       });
-      window.location.reload();
     } else {
+      e.preventDefault();
       setError(true);
     }
   }
@@ -50,20 +50,24 @@ function App() {
         >
           Click the link
         </a>
+        <p className="mt">
+          Sign up for more info
+        </p>
         <Input
-          className="mt"
           label="Email"
           value={email}
           error={error}
           onChange={(e, { value }) => setEmail(value)}
         />
-        <Button 
-          style={{ marginTop: '16px'}}
-          primary
-          onClick={handleSubmit}
-        >
-          Sign up
-        </Button>
+        <form onSubmit={handleSubmit}>
+          <Button 
+            style={{ marginTop: '16px', display: 'block'}}
+            type="submit"
+            primary
+          >
+            Sign up
+          </Button>
+        </form>
         <div className="mt" style={{ width: '50%'}}>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vulputate lacinia sem, sit amet volutpat ligula. Proin tempor enim justo, id porttitor tortor mollis in. Etiam iaculis lorem at pharetra commodo.
